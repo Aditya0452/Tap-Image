@@ -1,6 +1,6 @@
 # Tap-Image
-This application describes about Tap-Image  application using **Android Studio**.<br> 
-🟢🟡🔴<br>
+This application describes about Tap-Image  application using **Android Studio**.<br> <br>
+🟢🟡🔴
 # Files
 - main_activity.xml - about Designing layout
 - MainActivity.java - about Java code makes functional Onclick Listeners.
