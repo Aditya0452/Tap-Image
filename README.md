@@ -17,3 +17,10 @@ This application describes about Tap-Image  application using **Android Studio**
 - Setting main activity content to view
 - call methods (**on Click**,**Website url**,..)
 - Writing logic to the methods
+
+# Power Point and PDF 
+[AndroidPPT-compressed.pptx](https://github.com/Aditya0452/Tap-Image/files/13671038/AndroidPPT-compressed.pptx) <br>
+[AndroidPPT-compressed.pdf](https://github.com/Aditya0452/Tap-Image/files/13671100/AndroidPPT-compressed.pdf)<br><br>
+**MainActivity.java code**<br>
+output<br><br>
+![Screenshot 2023-12-11 140337](https://github.com/Aditya0452/Tap-Image/assets/113375555/78e28919-ae37-4e36-b52c-23f44729fb18)
